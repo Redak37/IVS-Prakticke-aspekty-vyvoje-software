@@ -1,0 +1,3 @@
+xducho07 100 (parser matematických výrazů, GUI controller, Makefile, instalátor)
+xjudaj00 100 (TTD testy k matematické knihovně, základ GUI, GUI controller, profiling, doxyfile)
+xnedel09 100 (matematická knihovna, dokumentační komentáře, mockup, design GUI, dokumentace.pdf)
